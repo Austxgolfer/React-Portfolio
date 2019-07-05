@@ -1,5 +1,6 @@
 import React from "react";
 import ProjectCard from "./projcard";
+import Projects from "./project.json";
 
 export default function ProjectPage() {
   return (
@@ -24,7 +25,14 @@ export default function ProjectPage() {
         </a>
       </nav>
       <div className="row">
-        <ProjectCard />
+        {Projects.map(card => (
+          <ProjectCard
+            id={card.id}
+            name={card.name}
+            desc={card.desc}
+            image={card.image}
+          />
+        ))}
       </div>
     </div>
   );
