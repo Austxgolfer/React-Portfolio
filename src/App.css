@@ -1,33 +1,85 @@
-.App {
+#homepg {
+  background-image: url(./Images/Downtown-Austin.jpg);
+  height: 1080px;
+}
+#vertnav {
+  width: 1903px;
+  margin: 0px;
+}
+
+#titlepage {
+  margin-bottom: 500px;
+}
+
+#projects {
+  background-color: #1870a2;
+  height: 1080px;
+}
+#toprow {
+  background: #4aaaaf;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
+#content {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  height: 500px;
+}
+#about {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
+#contact {
+  background-image: url(./Images/Downtown-Austin.jpg);
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+  height: 1080px;
+}
+#contactnav {
+  margin-bottom: 200px;
+}
+#portfolio {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
+#navrow {
+  background: #ffffff;
+}
+
+#name {
+  padding: 5px;
+  background-color: #4aaaaf;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
+#aboutmebox {
+  border: 2px solid rgb(214, 210, 210);
+  height: 300px;
+  background: #ffffff;
+}
+#textcontent {
+  background: #ffffff;
+  font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+#profilepic {
+  float: left;
+  margin: 20px;
+  margin-bottom: 0px;
+  height: 200px;
+  width: 200px;
+  background-image: url("./Images/profileimage.jpg");
+}
+footer {
+  margin: 0;
+  background-color: #4aaaaf;
   text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  color: #ffffff;
+  font: size 10px;
 }
