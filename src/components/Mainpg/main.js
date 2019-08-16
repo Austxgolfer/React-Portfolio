@@ -33,9 +33,14 @@ export default function MainPage() {
 
       <div className="container">
         <div className="jumbotron" id="titlepage">
-          <h1 className="display-4">Vanadium Web Development</h1>
-          <p className="lead">A future force in full stack web development</p>
+          <h1 className="display-4">Troy Fasnacht Web Development</h1>
+          <h3> Full stack web development</h3>
+          <p className="lead">
+            An entry level web developer recently graduated from the Trilogy Web
+            Develepment Boot Camp
+          </p>
         </div>
+        b de
       </div>
     </div>
   );

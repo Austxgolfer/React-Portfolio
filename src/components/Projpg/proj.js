@@ -30,7 +30,8 @@ export default function ProjectPage() {
             id={card.id}
             name={card.name}
             desc={card.desc}
-            image={card.image}
+            github={card.github}
+            site={card.site}
           />
         ))}
       </div>

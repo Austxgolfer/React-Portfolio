@@ -1,32 +1,26 @@
 [
   {
     "id": "1",
-    "name": "project1",
-    "desc": "Description of the project",
-    "image": "../../Images/place1.jpg"
+    "name": "Rise-Shine",
+    "desc": "A one stop location to plan your day",
+    "image": "Projectone",
+    "github": "https://github.com/rise-shine/Project1",
+    "site": "https://rise-shine.firebaseapp.com/"
   },
   {
     "id": "2",
-    "name": "project2",
-    "desc": "Description of the project",
-    "image": "../../Images/place5.jpg"
+    "name": "GiftScribe",
+    "desc": "A gift tracking website/App. This website allows you to store gift ideas for people in your life.  The ideas are stored in a SQL database and are sorted by the person the idea is for.",
+    "image": "Projectone",
+    "github": "https://github.com/rise-shine/Project-2",
+    "site": "https://giftscribe.herokuapp.com/"
   },
   {
     "id": "3",
-    "name": "project3",
-    "desc": "Description of the project",
-    "image": "../../Images/rpg.jpg"
-  },
-  {
-    "id": "4",
-    "name": "project4",
-    "desc": "Description of the project",
-    "image": "../../Images/widget.jpg"
-  },
-  {
-    "id": "5",
-    "name": "project5",
-    "desc": "Description of the project",
-    "image": "'../../../Images/place5.jpg'"
+    "name": "Fantasy Football League ",
+    "desc": "A basic fanatasy football website.  Data is pulled from an API and stored in a SQL database. Fantasy scoring is done on the server and stored in the database as well",
+    "image": "Projectone",
+    "github": "https://github.com/rise-shine/FFBLeagueManager",
+    "site": "https://ffbleaguemanager.herokuapp.com/"
   }
 ]

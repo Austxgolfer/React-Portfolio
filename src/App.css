@@ -1,3 +1,9 @@
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
 #homepg {
   background-image: url(./Images/Downtown-Austin.jpg);
   height: 1080px;
