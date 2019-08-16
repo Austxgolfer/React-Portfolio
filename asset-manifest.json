@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.a37e8789.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.9013a74a.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.9013a74a.chunk.js.map",
+    "runtime~main.js": "/React-Portfolio/static/js/runtime~main.982e8b01.js",
+    "runtime~main.js.map": "/React-Portfolio/static/js/runtime~main.982e8b01.js.map",
+    "static/js/2.ab8391ef.chunk.js": "/React-Portfolio/static/js/2.ab8391ef.chunk.js",
+    "static/js/2.ab8391ef.chunk.js.map": "/React-Portfolio/static/js/2.ab8391ef.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.cd2728ed334cdff27abc7f40f7f3649e.js": "/React-Portfolio/precache-manifest.cd2728ed334cdff27abc7f40f7f3649e.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.a37e8789.chunk.css.map": "/React-Portfolio/static/css/main.a37e8789.chunk.css.map",
+    "static/media/App.css": "/React-Portfolio/static/media/profileimage.630d4523.jpg",
+    "static/media/place1.jpg": "/React-Portfolio/static/media/place1.32b6fb4e.jpg"
+  }
+}
