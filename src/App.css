@@ -1,3 +1,12 @@
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+.lead {
+  text-align: center;
+}
 #homepg {
   background-image: url(./Images/Downtown-Austin.jpg);
   height: 1080px;
@@ -12,7 +21,7 @@
 }
 
 #projects {
-  background-color: #1870a2;
+  background-image: url(./Images/Downtown-Austin.jpg);
   height: 1080px;
 }
 #toprow {
@@ -31,6 +40,7 @@
   font-size: 20px;
   font-weight: bold;
 }
+
 #contact {
   background-image: url(./Images/Downtown-Austin.jpg);
   color: #ffffff;
@@ -82,4 +92,25 @@ footer {
   text-align: center;
   color: #ffffff;
   font: size 10px;
+}
+#spacerrow {
+  height: 100px;
+}
+#gitbutton {
+  float: left;
+  width: 110px;
+
+  margin: Auto;
+}
+#sitebutton {
+  float: right;
+  width: 110px;
+
+  margin-right: Auto;
+}
+#linkbutton {
+  display: block;
+  width: 110px;
+
+  margin: Auto;
 }

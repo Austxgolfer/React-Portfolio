@@ -4,38 +4,33 @@ export default function MainPage() {
   return (
     <div className="container-fluid" id="homepg">
       <nav className="nav flex-column">
-        <a className="nav-link active" href="#">
-          Active
+        <a className="nav-link active" href="/">
+          Main Page
         </a>
-        <a className="nav-link" href="#">
+        <a className="nav-link" href="/project">
           Portfolio
         </a>
-        <a className="nav-link" href="#">
-          Contact
-        </a>
+
         <a
-          className="nav-link disabled"
-          href="#"
+          className="nav-link"
+          href="https://www.linkedin.com/in/troy-fasnacht-0648679b"
           tabindex="-1"
           aria-disabled="true"
         >
           Linkedin
         </a>
-        <a
-          className="nav-link disabled"
-          href="#"
-          tabindex="-1"
-          aria-disabled="true"
-        >
-          Resume
-        </a>
       </nav>
 
       <div className="container">
         <div className="jumbotron" id="titlepage">
-          <h1 className="display-4">Vanadium Web Development</h1>
-          <p className="lead">A future force in full stack web development</p>
+          <h1 className="display-4">Troy Fasnacht Web Development</h1>
+          <h3> Full stack web development</h3>
+          <p className="lead">
+            An entry level web developer recently graduated from the Trilogy Web
+            Develepment Boot Camp
+          </p>
         </div>
+        b de
       </div>
     </div>
   );
