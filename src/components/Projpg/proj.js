@@ -6,19 +6,17 @@ import Contact from "../Contactpg/form.js";
 export default function ProjectPage() {
   return (
     <div id="projects">
-      <nav className="nav flex-column">
-        <a className="nav-link active" href="/">
-          Main Page
-        </a>
-        <a className="nav-link" href="/project">
-          Portfolio
+      <nav className="nav ">
+        <a class="nav-link active" href="/">
+          Main
         </a>
 
+        <a class="nav-link" href="/project">
+          Projects
+        </a>
         <a
-          className="nav-link "
+          class="nav-link"
           href="https://www.linkedin.com/in/troy-fasnacht-0648679b"
-          tabindex="-1"
-          aria-disabled="true"
         >
           Linkedin
         </a>
