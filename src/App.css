@@ -14,6 +14,7 @@ h3 {
 
 #titlepage {
   margin-bottom: 500px;
+  margin-top: 100px;
 }
 
 #projects {
@@ -89,9 +90,13 @@ footer {
   color: #ffffff;
   font: size 10px;
 }
+#topspacerrow {
+  height: 100px;
+}
 #spacerrow {
   height: 100px;
 }
+
 #gitbutton {
   float: left;
   width: 110px;

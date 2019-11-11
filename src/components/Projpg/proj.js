@@ -21,6 +21,7 @@ export default function ProjectPage() {
           Linkedin
         </a>
       </nav>
+      <div className="row" id="topspacerrow" />
       <div className="row">
         {Projects.map(card => (
           <ProjectCard

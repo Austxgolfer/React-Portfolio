@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Rise-Shine",
-    "desc": "A one stop location to plan your day",
+    "desc": "A one stop location to plan your day.  This project uses api from external website to pull data related your login and preferences.  This was the first group project for the bootcamp.",
     "image": "Projectone",
     "github": "https://github.com/rise-shine/Project1",
     "site": "https://rise-shine.firebaseapp.com/"
